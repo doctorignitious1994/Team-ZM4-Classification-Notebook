@@ -1,3 +1,5 @@
 # Team-ZM4-Classification-Notebook
 
-Companies are looking to create products and services that are environmentally friendly. They would thus like to understand their consumers' view on climate change. To address this, we are going to create Machine Learning models that are able to classify whether or not a person believes in climate change, based on their novel tweet data. Correct classification of a tweet will help companies understand consumer sentiment, which will further guide their business strategies.
+# Abstract
+
+Companies strive to develop environmentally friendly goods and services. As a result, they want to know what their customers think about climate change. To solve this, we will develop Machine Learning models that can determine whether or not a person believes in climate change based on fresh tweet data. Correctly categorizing a tweet can assist businesses in understanding customer mood, which will further steer their company objectives. We began by investigating the text data, then preprocessing it using NLP tools and training base models. Finally, we attempted to increase the performance of the models by modifying hyperparameters. LinearSVC, SVC, Random forest, and logistic regression are our top foue models. We were more interested in the weighted average f1 score as a performance statistic.
